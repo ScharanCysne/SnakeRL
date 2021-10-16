@@ -1,0 +1,5 @@
+__pycache__/
+gui/__pycache__/
+gui/utils/__pycache__/
+logic/__pycache__/
+logic/utils/__pycache__/
